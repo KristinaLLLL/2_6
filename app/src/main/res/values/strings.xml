@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2_6</string>
+    <string name="rnd_text">-</string>
+    <string name="get_rnd">Generate</string>
+</resources>

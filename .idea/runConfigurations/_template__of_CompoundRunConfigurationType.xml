@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="CompoundRunConfigurationType">
+    <toRun name="app" type="AndroidRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
